@@ -1,1 +1,1 @@
-# yuh
+# bulk upload to opensea
